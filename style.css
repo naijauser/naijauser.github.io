@@ -3,8 +3,29 @@
 body {
     font-family: 'Mulish', sans-serif;
     font-size: 14px;
+    color: #737B7D;
+    background: #F9F9F9;
 }
 
 footer {
     font-size: 12px;
 }
+
+.top-top-nav {
+    font-size: 12px;
+    background-color: #fff;
+}
+
+.top-top-nav.li.a.nav-link {
+    padding: 0;
+}
+
+.tnitm {
+    padding-bottom: 0;
+}
+
+.side-img {
+  float: left;
+  padding: 25px;
+}
+ 
